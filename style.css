@@ -54,7 +54,7 @@ body {
   border: none;
 }
 
-@media (width > 768px) {
+@media (width > 500px) {
   .con-div {
     max-width: 1000px;
   }
